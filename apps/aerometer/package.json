@@ -1,0 +1,11 @@
+{
+  "name": "aerometer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aerometer application",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "aerometer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aerometer monorepo",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED"
+}

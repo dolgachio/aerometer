@@ -1,6 +1,6 @@
 # Аерометр - Aerometer
 
-Застосунок для визначення якості повітря. 
+Застосунок для визначення якості повітря.
 
 ## Опис
 
@@ -19,5 +19,3 @@ Copyright © 2025 Stanislav Dolgachov. Усі права захищені.
 Copyright © 2025 Stanislav Dolgachov. All rights reserved.
 
 This project is for educational purposes. You may view and learn from this code, but may not use it commercially or redistribute it without permission.
-
-

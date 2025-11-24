@@ -6,6 +6,13 @@
 
 Цей репозиторій містить код застосунку і решти необхідних файлів.
 
+## Посилання
+
+https://sensor.community/en/
+https://cleanair.org.ua/
+https://gromada-erasmus.eu/uk/citizen-science-projects/
+https://aqicn.org/
+
 ## Ліцензія / License
 
 **Українська:**

@@ -1,0 +1,37 @@
+{
+  "extends": "../../bazel-aerometer/external/valdi/modules/_configs/base.tsconfig.json",
+  "compilerOptions": {
+    "paths": {
+      "aerometer/*": [
+        "./*",
+        "../../bazel-out/darwin_x86_64-fastbuild/bin/modules/aerometer/.valdi_build/projectsync/generated_ts/aerometer/*"
+      ],
+      "jasmine/*": [
+        "../../bazel-aerometer/external/valdi/src/valdi_modules/src/valdi/jasmine/*"
+      ],
+      "coreutils/*": [
+        "../../bazel-aerometer/external/valdi/src/valdi_modules/src/valdi/coreutils/*"
+      ],
+      "source_map/*": [
+        "../../bazel-aerometer/external/valdi/src/valdi_modules/src/valdi/source_map/*"
+      ],
+      "valdi_tsx/*": [
+        "../../bazel-aerometer/external/valdi/src/valdi_modules/src/valdi/valdi_tsx/*"
+      ],
+      "valdi_core/*": [
+        "../../bazel-aerometer/external/valdi/src/valdi_modules/src/valdi/valdi_core/*"
+      ],
+      "tslib": [
+        "../../bazel-aerometer/external/valdi/src/valdi_modules/src/valdi/valdi_core/src/tslib"
+      ]
+    },
+    "types": [
+      "../../bazel-aerometer/external/valdi/modules/types/Long",
+      "../../bazel-aerometer/external/valdi/modules/types/globals"
+    ],
+    "rootDirs": [
+      "..",
+      "../../bazel-out/darwin_x86_64-fastbuild/bin/modules/aerometer/.valdi_build/projectsync/generated_ts"
+    ]
+  }
+}

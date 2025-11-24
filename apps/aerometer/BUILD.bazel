@@ -1,0 +1,19 @@
+load("@valdi//bzl/valdi:valdi_application.bzl", "valdi_application")
+load("@valdi//bzl/valdi:valdi_exported_library.bzl", "valdi_exported_library")
+
+valdi_application(
+    name = "aerometer_app",
+    ios_bundle_id = "com.website.aerometer",
+    ios_families = ["iphone"],
+    root_component_path = "App@aerometer/src/App",
+    title = "aerometer",
+    version = "1.0.0",
+    deps = ["//modules/aerometer"],
+)
+
+valdi_exported_library(
+    name = "aerometer_export",
+    ios_bundle_id = "com.website.aerometer.lib",
+    ios_bundle_name = "Aerometer",
+    deps = ["//modules/aerometer"],
+)

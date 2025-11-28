@@ -8,10 +8,10 @@
 
 ## Посилання
 
-https://sensor.community/en/
-https://cleanair.org.ua/
-https://gromada-erasmus.eu/uk/citizen-science-projects/
-https://aqicn.org/
+- https://sensor.community/en/
+- https://cleanair.org.ua/
+- https://gromada-erasmus.eu/uk/citizen-science-projects/
+- https://aqicn.org/
 
 ## Ліцензія / License
 
